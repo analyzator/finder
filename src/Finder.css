@@ -1,0 +1,40 @@
+.layout {
+  min-width: 49.5rem;
+}
+.Finder {
+  display: flex;
+}
+.Finder > div {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 0.5rem;
+  min-width: 10rem;
+}
+.Finder > .column > ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.filter > div {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  margin: 0.5rem;
+}
+
+.filter > div > div > button {
+  margin-left: 0.5rem;
+}
+
+.selected {
+  background-color: lightblue;
+  border-radius: 3px;
+}
+.path {
+  font-size: small;
+  display: flex;
+  align-items: center;
+}

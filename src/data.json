@@ -1,0 +1,166 @@
+{
+  "regions": [
+    {
+      "id": 1,
+      "name": "Stredné Slovensko",
+      "districts": [
+        {
+          "id": 1,
+          "name": "Banskobystrický kraj",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Banská Bystrica",
+              "districts": [
+                { "id": 1, "name": "Staré Mesto" },
+                { "id": 2, "name": "Kráľová" },
+                { "id": 3, "name": "Luník IX" }
+              ]
+            },
+            {
+              "id": 2,
+              "name": "Zvolen",
+              "districts": [
+                { "id": 4, "name": "Dolné Zelené" },
+                { "id": 5, "name": "Horné Stráne" },
+                { "id": 6, "name": "Nový Dvor" }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Žilinský kraj",
+          "cities": [
+            {
+              "id": 3,
+              "name": "Žilina",
+              "districts": [
+                { "id": 7, "name": "Závodie" },
+                { "id": 8, "name": "Staré mesto" },
+                { "id": 9, "name": "Kamenné námestie" }
+              ]
+            },
+            {
+              "id": 4,
+              "name": "Martin",
+              "districts": [
+                { "id": 10, "name": "Záturčie" },
+                { "id": 11, "name": "Podháj" },
+                { "id": 12, "name": "Trnovec" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Západné Slovensko",
+      "districts": [
+        {
+          "id": 3,
+          "name": "Trnavský kraj",
+          "cities": [
+            {
+              "id": 5,
+              "name": "Trnava",
+              "districts": [
+                { "id": 13, "name": "Hrnčiarska" },
+                { "id": 14, "name": "Kamenná ulica" },
+                { "id": 15, "name": "Havlíčkova" }
+              ]
+            },
+            {
+              "id": 6,
+              "name": "Piešťany",
+              "districts": [
+                { "id": 16, "name": "Jaslovské Bohunice" },
+                { "id": 17, "name": "Dolné Saliby" },
+                { "id": 18, "name": "Nedanovce" }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Trenčiansky kraj",
+          "cities": [
+            {
+              "id": 7,
+              "name": "Trenčín",
+              "districts": [
+                { "id": 19, "name": "Staré mesto" },
+                { "id": 20, "name": "Horné Lúčky" },
+                { "id": 21, "name": "Dolné Poruba" }
+              ]
+            },
+            {
+              "id": 8,
+              "name": "Považská Bystrica",
+              "districts": [
+                { "id": 22, "name": "Kadnárova" },
+                { "id": 23, "name": "Púchovská" },
+                { "id": 24, "name": "Stará Bystrica" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Východné Slovensko",
+      "districts": [
+        {
+          "id": 5,
+          "name": "Košický kraj",
+          "cities": [
+            {
+              "id": 9,
+              "name": "Košice",
+              "districts": [
+                { "id": 25, "name": "Staré mesto" },
+                { "id": 26, "name": "Sever" },
+                { "id": 27, "name": "Džungľa" }
+              ]
+            },
+            {
+              "id": 10,
+              "name": "Prešov",
+              "districts": [
+                { "id": 28, "name": "Záhradné mesto" },
+                { "id": 29, "name": "Tichá dolina" },
+                { "id": 30, "name": "Pavlova Ves" }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": "Prešovský kraj",
+          "cities": [
+            {
+              "id": 11,
+              "name": "Prešov",
+              "districts": [
+                { "id": 31, "name": "Staré Mesto" },
+                { "id": 32, "name": "Kráľovské pole" },
+                { "id": 33, "name": "Sekčov" }
+              ]
+            },
+            {
+              "id": 12,
+              "name": "Bardejov",
+              "districts": [
+                { "id": 34, "name": "Šarišské Čierne" },
+                { "id": 35, "name": "Jasenov" },
+                { "id": 36, "name": "Radoma" }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
